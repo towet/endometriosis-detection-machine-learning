@@ -43,7 +43,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your_username/endometriosis_detection.git
+git clone[ https://github.com/your_username/endometriosis_detection.git](https://github.com/towet/endometriosis-detection-machine-learning)
 cd endometriosis_detection
 Install Dependencies:
 
